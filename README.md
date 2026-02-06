@@ -1,4 +1,5 @@
 # E-commerce Sales Data Analysis
+![Dashboard Preview](dashboard_preview.png)
 
 ## Project Overview
 Analyzed an e-commerce sales dataset to extract business insights
