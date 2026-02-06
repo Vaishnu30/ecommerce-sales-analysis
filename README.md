@@ -20,11 +20,12 @@ Columns included:
 - Google Colab
 
 ## Project Workflow
-1. **Day 1:** Data loading and initial exploration
-2. **Day 2:** Exploratory data analysis, monthly trends, category & region insights
-3. **Day 3:** Data cleaning, advanced features, aggregated tables
-4. **Day 4:** Visualizations, sales & profit trend analysis, loss-making segments
-5. **Day 5:** SQL-style queries, KPI definitions, dashboard-ready datasets
+- All steps combined into a single notebook:
+  - Data Loading & Understanding
+  - Exploratory Data Analysis
+  - Feature Engineering & Cleaning
+  - Visualization & Business Insights
+  - SQL Analysis & Dashboard Preparation
 
 ## Key Business Insights
 - Sales exhibit seasonal patterns with peak months
