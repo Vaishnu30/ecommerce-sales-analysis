@@ -1,11 +1,11 @@
 # E-commerce Sales Data Analysis
 
-## Objective
-To analyze e-commerce sales data and extract business insights related to sales,
-profit, categories, and regional performance.
+## Project Overview
+Analyzed an e-commerce sales dataset to extract business insights
+on sales, profit, product categories, and regional performance.
 
 ## Dataset
-The dataset contains the following columns:
+Columns included:
 - Order Date
 - Product Name
 - Category
@@ -15,17 +15,29 @@ The dataset contains the following columns:
 - Profit
 
 ## Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (simulated using Pandas)
 - Google Colab
 
-## Project Status
-In Progress
+## Project Workflow
+1. **Day 1:** Data loading and initial exploration
+2. **Day 2:** Exploratory data analysis, monthly trends, category & region insights
+3. **Day 3:** Data cleaning, advanced features, aggregated tables
+4. **Day 4:** Visualizations, sales & profit trend analysis, loss-making segments
+5. **Day 5:** SQL-style queries, KPI definitions, dashboard-ready datasets
 
-## Key Analysis (So Far)
-- Initial data exploration and cleaning
-- Category-wise sales analysis
-- Region-wise profit analysis
-- Basic visualizations with insights
+## Key Business Insights
+- Sales exhibit seasonal patterns with peak months
+- Profit does not always follow sales trends
+- Certain regions and categories drive most losses
+- Profit margin analysis identifies pricing inefficiencies
+- Loss-making products identified for corrective action
+
+## Dashboard Plan
+- KPI Cards: Total Sales, Total Profit, Profit Margin
+- Line Chart: Monthly Sales & Profit Trend
+- Bar Charts: Sales & Profit by Region and Category
+- Table: Top Loss-Making Products
+
+## Project Status
+Completed – Ready for portfolio and interview presentation
