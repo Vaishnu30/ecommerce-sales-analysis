@@ -1,45 +1,107 @@
-# E-commerce Sales Data Analysis
-![Dashboard Preview](notebook/dashboard_preview.png)
+# 📊 E-Commerce Sales Data Analysis
 
-## Project Overview
-Analyzed an e-commerce sales dataset to extract business insights
-on sales, profit, product categories, and regional performance.
+## 🧠 Project Overview
+This project analyzes an **e-commerce sales dataset** to extract
+**business-driven insights** related to sales performance, profitability,
+product categories, and regional trends.
 
-## Dataset
-Columns included:
-- Order Date
-- Product Name
-- Category
-- Region
-- Quantity
-- Sales
-- Profit
+The analysis focuses on identifying patterns, inefficiencies, and
+actionable insights useful for business decision-making.
 
-## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL (simulated using Pandas)
-- Google Colab
+---
 
-## Project Workflow
-- All steps combined into a single notebook:
-  - Data Loading & Understanding
-  - Exploratory Data Analysis
-  - Feature Engineering & Cleaning
-  - Visualization & Business Insights
-  - SQL Analysis & Dashboard Preparation
+## 📂 Dataset
+The dataset contains the following key fields:
 
-## Key Business Insights
-- Sales exhibit seasonal patterns with peak months
-- Profit does not always follow sales trends
-- Certain regions and categories drive most losses
-- Profit margin analysis identifies pricing inefficiencies
-- Loss-making products identified for corrective action
+- Order Date  
+- Product Name  
+- Category  
+- Region  
+- Quantity  
+- Sales  
+- Profit  
 
-## Dashboard Plan
-- KPI Cards: Total Sales, Total Profit, Profit Margin
-- Line Chart: Monthly Sales & Profit Trend
-- Bar Charts: Sales & Profit by Region and Category
-- Table: Top Loss-Making Products
+---
 
-## Project Status
-Completed
+## 🛠️ Tools & Technologies
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL-style analysis** simulated using Pandas
+- **Google Colab**
+- **Power BI** (Dashboard creation)
+
+---
+
+## 🔄 Project Workflow
+All analysis steps were executed in a **single Jupyter Notebook**:
+
+- Data Loading & Understanding  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering & Data Cleaning  
+- Visualization & Business Insights  
+- SQL-style Analysis & Dashboard Dataset Preparation  
+
+---
+
+## 📊 Key Business Insights
+- Sales show **clear seasonal trends** with identifiable peak months  
+- Higher sales volumes do **not always translate into higher profit**  
+- Certain regions and product categories consistently generate losses  
+- Profit margin analysis reveals **pricing and cost inefficiencies**  
+- Loss-making products were identified for corrective business actions  
+
+---
+
+## 📈 Power BI Dashboard
+
+The Power BI dashboard was built using processed outputs from the Python analysis.
+
+**Included files:**
+- 📁 `dashboard/ecommerce_dashboard.pbix`
+- 🖼️ `dashboard/dashboard_preview.png`
+
+**Dashboard components:**
+- KPI Cards: Total Sales, Total Profit, Profit Margin  
+- Line Chart: Monthly Sales & Profit Trends  
+- Bar Charts: Sales & Profit by Region and Category  
+- Table: Top Loss-Making Products  
+
+---
+
+## 📁 Repository Structure
+
+ecommerce-eda-python/
+│
+
+├── data/
+
+├── notebook/
+
+│ └── ecommerce_analysis.ipynb
+
+├── dashboard/
+
+│ ├── ecommerce_dashboard.pbix
+
+│ └── dashboard_preview.png
+
+├── dashboard_month.csv
+
+├── dashboard_region.csv
+
+└── README.md
+
+---
+
+## ✅ Project Status
+**Completed**
+
+---
+
+## 👤 Author
+**Vaishnavi Yadav**  
+Aspiring Data Analyst  
+📍 Python | Data Analysis | Business Insights  
+
+---
+
+⭐ *If you found this project useful, feel free to star the repository!*
